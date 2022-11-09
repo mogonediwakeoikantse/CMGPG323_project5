@@ -5,7 +5,7 @@ CMPG323 project 5 based on Power BI
 Power BI is a data visualization software product which was developed by Microsoft. The software primarily focuses on business intelligence. The software provides a user with plenty of different visualization features in which data can be interpreted and analyzed to make important business decisions.
 
 ## How to use and navigate through the report.
-### High Metrics report page.
+## High Metrics report page.
 The first page provides a summary view of all of the data. At the top left of each page there is a logo image.
 
 
@@ -35,6 +35,7 @@ The last feature is a button at the bottom right of the page. This button basica
 
 ![Screenshot 2022-11-10 013126](https://user-images.githubusercontent.com/110536628/200964761-e76da8ce-3674-4449-ac29-7e761595877d.png)
 
+
 ## Device Monitoring report page.
 On this page, a user can switch between active (online) and Inactive (offline) devices. By doing this, the rest of the features on the page will change accordingly to display the devices. 
 
@@ -46,6 +47,24 @@ The next feature provides a visual on the devices that are seperated according t
 
 ![Screenshot 2022-11-10 014346](https://user-images.githubusercontent.com/110536628/200966041-a2627246-cf08-4237-a92a-06d872986040.png)
 
+
+The feature allows a user to monitor the devices according to a specific zone. It is in the form of a tree chart. A user can also click on the name of a zone, and that will display the name of the device linked to that specific zone. 
+
+
+![Screenshot 2022-11-10 014331](https://user-images.githubusercontent.com/110536628/200966509-9bb58c98-0b77-4983-b63b-aa6da3cbc726.png)
+
+The below picture, is basically a representation of the visual feature which basically shows a user how many devices are active or inactive from the data. 
+
+
+![Screenshot 2022-11-10 014357](https://user-images.githubusercontent.com/110536628/200966688-63e80f48-cf36-4a7f-a4ca-5e4c47d25129.png)
+
+
+Along with the other features, is a selection filter where a user can select a specific category according to the ID and the information will be summarized in the other features on the page. 
+
+
+![Screenshot 2022-11-10 014410](https://user-images.githubusercontent.com/110536628/200966847-e15fad9b-118e-4f41-abeb-17d758737c8f.png)
+
+The page has two navigation buttons in which a user can switch between different pages. 
 
 
 ## License
