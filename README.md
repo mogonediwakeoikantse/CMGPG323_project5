@@ -33,6 +33,8 @@ The next 3 features are also tables, namely a sub category table, category table
 
 The last feature is a button at the bottom right of the page. This button basically navigates to the next page which is the "Device Monitering" page.
 
+![Screenshot 2022-11-10 013126](https://user-images.githubusercontent.com/110536628/200964761-e76da8ce-3674-4449-ac29-7e761595877d.png)
+
 
 ## License
 MIT License.
