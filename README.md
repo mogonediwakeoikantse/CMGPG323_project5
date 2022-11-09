@@ -31,9 +31,21 @@ The next 3 features are also tables, namely a sub category table, category table
 
 ![Screenshot 2022-11-10 013056](https://user-images.githubusercontent.com/110536628/200964482-71dca5c6-ea68-4f22-a80f-f93c0e1daedc.png)
 
-The last feature is a button at the bottom right of the page. This button basically navigates to the next page which is the "Device Monitering" page.
+The last feature is a button at the bottom right of the page. This button basically navigates to the next page which is the "Device Monitoring" page.
 
 ![Screenshot 2022-11-10 013126](https://user-images.githubusercontent.com/110536628/200964761-e76da8ce-3674-4449-ac29-7e761595877d.png)
+
+## Device Monitoring report page.
+On this page, a user can switch between active (online) and Inactive (offline) devices. By doing this, the rest of the features on the page will change accordingly to display the devices. 
+
+
+![Screenshot 2022-11-10 014306](https://user-images.githubusercontent.com/110536628/200965843-8b3fd68a-30d3-4a08-bbe1-280c044a6155.png)
+
+The next feature provides a visual on the devices that are seperated according to different categories. The feature displays the name of the category, and then displays the number of devices that are associated to that category. 
+
+
+![Screenshot 2022-11-10 014346](https://user-images.githubusercontent.com/110536628/200966041-a2627246-cf08-4237-a92a-06d872986040.png)
+
 
 
 ## License
