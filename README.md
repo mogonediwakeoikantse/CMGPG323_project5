@@ -64,7 +64,30 @@ Along with the other features, is a selection filter where a user can select a s
 
 ![Screenshot 2022-11-10 014410](https://user-images.githubusercontent.com/110536628/200966847-e15fad9b-118e-4f41-abeb-17d758737c8f.png)
 
-The page has two navigation buttons in which a user can switch between different pages. 
+## Device Registration report page.
+The first feature in this page is a chart which shows the number of devices and in which year they were registered. 
+
+
+![Screenshot 2022-11-10 023947](https://user-images.githubusercontent.com/110536628/200972921-6ea49054-2c67-4a1f-a12f-b675ec42083b.png)
+
+
+The second feature showcases all of the devices inside a sqaure block. The block also behaves like a filter in which a user can click on a specific device and the information will be shown for that specific device. 
+
+
+![Screenshot 2022-11-10 024013](https://user-images.githubusercontent.com/110536628/200972954-bfa7aeb8-116a-4218-8c0f-08c1e56188a2.png)
+
+
+The next feature displays the different categories and how many devices are in each. If a user selects a specific device in the previous feature, this feature will display how many devices exist in a category. 
+
+
+![Screenshot 2022-11-10 024001](https://user-images.githubusercontent.com/110536628/200972974-90c54c57-5675-48be-b324-595bc2f57f67.png)
+
+
+The remaining two features are basically filters. 
+
+![Screenshot 2022-11-10 024041](https://user-images.githubusercontent.com/110536628/200973025-7736156a-ea2d-48ab-8c4f-50e083406f2e.png)
+
+![Screenshot 2022-11-10 024031](https://user-images.githubusercontent.com/110536628/200973031-08fad407-7ccb-4819-a200-4838773a74bd.png)
 
 
 ## License
