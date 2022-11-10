@@ -6,6 +6,11 @@ Power BI is a data visualization software product which was developed by Microso
 
 ## How to use and navigate through the report.
 ## High Metrics report page.
+
+
+![Screenshot 2022-11-10 024931](https://user-images.githubusercontent.com/110536628/200973355-e5f0f53b-b55f-44bc-8307-76ed14a55437.png)
+
+
 The first page provides a summary view of all of the data. At the top left of each page there is a logo image.
 
 
@@ -37,6 +42,11 @@ The last feature is a button at the bottom right of the page. This button basica
 
 
 ## Device Monitoring report page.
+
+
+![Screenshot 2022-11-10 023752](https://user-images.githubusercontent.com/110536628/200973255-6ad22fc2-d7be-4410-8129-cbcc43e5f8b8.png)
+
+
 On this page, a user can switch between active (online) and Inactive (offline) devices. By doing this, the rest of the features on the page will change accordingly to display the devices. 
 
 
