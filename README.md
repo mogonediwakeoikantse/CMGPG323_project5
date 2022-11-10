@@ -8,9 +8,6 @@ Power BI is a data visualization software product which was developed by Microso
 ## High Metrics report page.
 
 
-![Screenshot 2022-11-10 024931](https://user-images.githubusercontent.com/110536628/200973355-e5f0f53b-b55f-44bc-8307-76ed14a55437.png)
-
-
 The first page provides a summary view of all of the data. At the top left of each page there is a logo image.
 
 
