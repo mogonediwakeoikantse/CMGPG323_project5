@@ -41,7 +41,7 @@ The last feature is a button at the bottom right of the page. This button basica
 ## Device Monitoring report page.
 
 
-![Screenshot 2022-11-10 023752](https://user-images.githubusercontent.com/110536628/200973255-6ad22fc2-d7be-4410-8129-cbcc43e5f8b8.png)
+![Screenshot 2022-11-10 024931](https://user-images.githubusercontent.com/110536628/200973355-e5f0f53b-b55f-44bc-8307-76ed14a55437.png)
 
 
 On this page, a user can switch between active (online) and Inactive (offline) devices. By doing this, the rest of the features on the page will change accordingly to display the devices. 
@@ -72,6 +72,10 @@ Along with the other features, is a selection filter where a user can select a s
 ![Screenshot 2022-11-10 014410](https://user-images.githubusercontent.com/110536628/200966847-e15fad9b-118e-4f41-abeb-17d758737c8f.png)
 
 ## Device Registration report page.
+
+![Screenshot 2022-11-10 023752](https://user-images.githubusercontent.com/110536628/200973255-6ad22fc2-d7be-4410-8129-cbcc43e5f8b8.png)
+
+
 The first feature in this page is a chart which shows the number of devices and in which year they were registered. 
 
 
